@@ -114,6 +114,7 @@
 - [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
 - [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
 - [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client. [![Open-Source Software][OSS Icon]](https://download.filezilla-project.org/client/) ![Freeware][Freeware Icon]
+- [Full Convert](https://www.spectralcore.com/fullconvert) - A high-speed database converter carefully engineered to efficiently handle even the largest databases.
 - [Git Extensions](https://gitextensions.github.io/) - A powerful and easy to use UI for Git. [![Open-Source Software][OSS Icon]](https://github.com/gitextensions/gitextensions) ![Freeware][Freeware Icon]
 - [GitHub Desktop](https://desktop.github.com/) - GitHub Desktop is an open source Electron-based GitHub app. [![Open-Source Software][OSS Icon]](https://github.com/desktop/desktop) ![Freeware][Freeware Icon]
 - [GitKraken](https://www.gitkraken.com/) - A beautiful, cross-platform Git client. ![Freeware][Freeware Icon]
@@ -131,6 +132,7 @@
 - [Process Hacker](http://processhacker.sourceforge.net/) - Excellent full blown task manager.
 - [RazorSQL](http://www.razorsql.com/) - A GUI for managing SQLite databases which requires major work.
 - [Redis Desktop Manager](http://redisdesktop.com/) Cross-platform open source Redis DB management tool.
+- [Replicator](https://www.spectralcore.com/replicator) - Easily replicate database table data - even with heterogeneous databases.
 - [Robo 3T](https://robomongo.org/) - A lightweight GUI for MongoDB enthusiasts.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 - [Sql Wave](http://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
